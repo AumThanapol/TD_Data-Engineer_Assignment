@@ -1,0 +1,29 @@
+Raw Text :  Hello World!
+My name is Thanapol Thanamit
+My nickname is Aum
+Nice to meet you
+This is tab dataSanitized text :  hello world!
+my name is thanapol thanamit
+my nickname is aum
+nice to meet you
+this is tab data
+Statistic calculation
+a  :  10
+t  :  8
+m  :  7
+i  :  7
+e  :  6
+n  :  6
+o  :  5
+h  :  4
+l  :  4
+s  :  4
+y  :  3
+d  :  2
+c  :  2
+u  :  2
+w  :  1
+r  :  1
+p  :  1
+k  :  1
+b  :  1
