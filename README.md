@@ -1,6 +1,6 @@
 # TD_Data-Engineer_Assignment
 
-Slide Present in file [Present_Thanapol_Thanamit.pdf](TD_Data-Engineer_Assignment/Present_Thanapol_Thanamit.pdf)
+Slide Present in file [Present_Thanapol_Thanamit.pdf](Present_Thanapol_Thanamit.pdf)
 ---
 ## How to Set up projects
 ```shell
@@ -10,6 +10,8 @@ $ pip install -r requirements.txt
 ```
 ---
 ## Q2_text_sanitizer
+Script in file [Q2_text_sanitizer/text_sanitizer.py](Q2_text_sanitizer/text_sanitizer.py)
+
 ```$ python3 text_sanitizer.py [source] [target]```
 
 ### Example
@@ -22,7 +24,8 @@ $ python3 text_sanitizer.py config.cfg target2.txt
 ```
 ---
 ## Q3_SQL
-Document in file [Q3_sql/sql.html](TD_Data-Engineer_Assignment/Q3_sql/sql.html)
+Document in file [Q3_sql/document_sql.pdf](Q3_sql/document_sql.pdf)
+
 ### Step
 1. Mockup data
     1. Extract data from shopee.com (category, product, price)
